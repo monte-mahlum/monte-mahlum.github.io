@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Monte Mahlum"
+  name             : 
   avatar           : "profile.png"
-  bio              : "McGill University, Undergraduate, Mathematics and Physics"
+  bio              : "Fourth-year undergraduate in mathematics and physics at McGill university"
   location         : "Montreal, CA"
   employer         :
   email            : "monte.mahlum@mail.mcgill.ca"
