@@ -20,7 +20,7 @@ Over the course of the fall 2022 semester, I sent out over ninety emails to McGi
 
 *June 2023*
 
-[A Qualitative Introduction To Lie Theory With Applications To Quantum Physics](/files/Lie_Theory (1).pdf)
+[A Qualitative Introduction To Lie Theory (With Applications To Quantum Physics)](/files/Lie_Theory (2).pdf)
 
 
 A month into my semester abroad in Prague, my friend informed me that a course she was taking, Advanced Concepts in Symmetry (a physics course), was one that I would really love. I reached out to the Professor and ultimately participated in the course, without credit, for the remainder of the semester. The course lived up to its title and by the last few lectures, my friend and I were completely lost in an unfamiliar world of gauge theory. The final assessment was to present a lecture on symmetry in physics. Considering we had been dancing around Lie Theory for the last month, I decided to enlighten my physics-minded classmates with a proper mathematical introduction to the topic. 
