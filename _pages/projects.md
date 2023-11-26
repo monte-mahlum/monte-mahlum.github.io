@@ -9,7 +9,7 @@ author_profile: true
 ### Fibrations Podcast
 *September 2022 -*
 
-[soundcloud.com/fibrations](https://soundcloud.com/fibrations)
+[spotify.com/fibrations](https://open.spotify.com/episode/4LaRg86qK7iV12MN9MkG9u?si=cQG29zDVTjiVuW-wCv58wQ)
 
 The idea stemmed from my own curiosity regarding both the content and process of academic research. As an undergraduate student dreaming of a future in mathematical research, I often found myself on the websites of various McGill departments reading through the current work being done. I was surprised by the vast number of unique subfields, each professor with their own questions and methods of investigation. Naturally, much of language used was unkown to me, especially as I ventured outside of mathematics and physics into the realms of neuroscience, computer science, philosophy, etc. I became very interested in first deciphering this cryptic academic code and second, understanding why professors chose these seemingly arbitrary, niche questions. These two queries, along with a desire to share the answers with my fellow undergraduates, were exactly the seeds for Fibrations. 
 
