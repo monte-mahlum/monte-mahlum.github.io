@@ -1,11 +1,13 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: 'Quantum First Passage Time'
+date: 2023-07-31
 permalink: /posts/2012/08/blog-post-4/
-tags:
-  - cool posts
-  - category1
-  - category2
----
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+---
+title: 'Quantum First Passage Time'
+date: 2023-07-31
+permalink: /posts/2023/07/blog-post-5/
+---
+[stackexchange.com/quantumfirstpassagetime](https://physics.stackexchange.com/questions/774291/quantum-first-passage-time)
+
+My first and—so far—only post on stack exchange. Hopefully more to come soon.
