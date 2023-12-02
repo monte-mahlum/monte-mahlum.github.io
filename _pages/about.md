@@ -8,5 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="files/DALL.E.png" alt="Image by DALL.E" width="500" height="600">
+{% include base_path %}
+
+<img src="/files/DALL.E.png" alt="Image by DALL.E" width="500" height="600">
 
