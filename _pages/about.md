@@ -15,4 +15,4 @@ I am an undergraduate student at McGill University and a research assistant at t
 {% <img src="/files/DALL.E.png" alt="Image by DALL.E" width="500" height="600">
 
 Image by DALL.E
-}%
+%}
