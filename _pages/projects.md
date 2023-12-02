@@ -32,4 +32,4 @@ A month into my semester abroad in Prague, my friend informed me that a course s
 
 [Laplace's Demons](https://devpost.com/software/laplace-s-demons)
 
-To be honest, I don't really know why my friend and I chose to partake in this endeavor. It was certainly a period of great bonding and learning, but I feel a bit bittersweet about the whole thing because I value my sleep. Nonetheless, it was a semi-rewarding, messy, thrilling journey that I would probably venture into again.
+Certainly a period of great bonding and learning, but I do remember feeling tired for five days after this competition. Nonetheless, it was a semi-rewarding, messy, thrilling journey that I would probably venture into again.
