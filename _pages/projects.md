@@ -5,6 +5,13 @@ permalink: /projects/
 author_profile: true
 
 ---
+### Directed Reading Program
+
+*January 2024 -*
+
+Founded fifteen years ago at the University of Chicago, the Directed Reading Program pairs ambitious undergraduate students with graduate mentors for a semester-long investigation into a chosen topic. This semester, I have been paired with Alexis Leroux-Lapierre: [math.mcgill.ca/~alapierre](https://www.math.mcgill.ca/~alapierre/). We will begin the semester by Alexis guiding me through the literature on the Reshetikhin–Turaev construction of knot invariants. This reading will initially be conducted in collaboration with two other undergraduate students before branching off and ending with an individual write-up of what we've learned. 
+
+
 
 ### Fibrations Podcast
 *September 2022 -*
