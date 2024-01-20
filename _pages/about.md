@@ -10,4 +10,4 @@ redirect_from:
 
 {% include base_path %}
 
-I am an undergraduate student at McGill University and a research assistant at the University of Minnesota. My interests include (but are not limited to) geometry, topology, their algebraic counterparts, representation theory, mathematical physics, and numerical analysis. I am particularly intrigued by fundamental physics and I have many questions regarding gauge theory, moduli spaces, and bundle geometry---I have a lot more to learn on this front.
+I am an undergraduate student at McGill University and a research assistant at the University of Minnesota. My interests include (but are not limited to) algebraic geometry and topology, representation theory, mathematical physics, and numerical analysis. I am particularly intrigued by fundamental physics and I have many questions regarding gauge theory, moduli spaces, and categorification---I have a lot more to learn on this front.
