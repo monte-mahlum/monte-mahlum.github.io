@@ -10,6 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-Fourth year undergraduate student at McGill University and a research assistant at the University of Minnesota. My academic interests include (but are not limited to) differential geometry and topology, representation theory, mathematical physics, and numerical analysis. I am particularly intrigued by fundamental physics and I have many questions regarding gauge theory and categorification---I have a lot more to learn on this front.
+I am in my fourth and final year at McGill University, receiving my BSc in mathematics. I am also a research assistant at the University of Minnesota where I am an incoming master's student. My academic interests include (but are not limited to) differential geometry and topology, representation theory, mathematical physics, and numerical analysis. I am particularly intrigued by fundamental physics and I have many questions regarding gauge theory and categorification---I have a lot more to learn on this front.
 
 For an updated version of my CV, please follow the corresponding tab above.
