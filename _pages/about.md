@@ -14,4 +14,4 @@ I am in my fourth and final year at McGill University, receiving my BSc in mathe
 
 For an updated version of my CV, please follow the corresponding tab above.
 
-For programming projects, see my [GitHub Repository](https://github.com/monte-mahlum)
+For programming projects, see my [GitHub Repository](https://github.com/monte-mahlum).
