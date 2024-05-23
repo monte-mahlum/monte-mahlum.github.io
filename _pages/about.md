@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am in my fourth and final year at McGill University, receiving my BSc in mathematics with an extensive minor in physics. I am also a research assistant at the University of Minnesota where I am an incoming master's student. My academic interests include (but are not limited to) cryptography & algorithms, differential geometry & topology, representation theory, mathematical physics, and deep learning. I am particularly intrigued by fundamental physics and I have many questions regarding gauge theory and categorification---I have a lot more to learn on this front.
+I am a recent graduate of McGill University, where I received my BSc in mathematics with an extensive minor in physics. I am also a research assistant at the University of Minnesota where I am an incoming master's student. My academic interests include (but are not limited to) algebraic and differential geometry & topology, representation theory, mathematical physics, and deep learning. I am particularly fascinated by fundamental physics and I have many questions regarding gauge theory and categorification---I have a lot more to learn on this front.
 
 For an updated version of my CV, please follow the corresponding tab above.
 
