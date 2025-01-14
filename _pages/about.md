@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a recent graduate of McGill University, where I received my BSc in mathematics with an extensive minor in physics. I am also a research assistant at the University of Minnesota where I am an incoming master's student. My academic interests include (but are not limited to) algebraic and differential geometry & topology, representation theory, mathematical physics, and deep learning. I am particularly fascinated by fundamental physics and I have many questions regarding gauge theory and categorification---I have a lot more to learn on this front.
+Research assistant and master's student at the University of Minnesota. My current work is on the convergence properties of a deep learning algorithm developed by [LWL](https://www.sciencedirect.com/science/article/pii/S0021999124004364?ref=pdf_download&fr=RR-2&rr=90208f984a7d511c). My academic interests include (but are not limited to) higher category theory, algebraic topology, and geometry. I am currently captivated by applications of category theory to deep learning, database organization, and distributed systems.
 
 For an updated version of my CV, please follow the corresponding tab above.
 
