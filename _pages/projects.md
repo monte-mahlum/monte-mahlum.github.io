@@ -7,9 +7,9 @@ author_profile: true
 ---
 ### Directed Reading Program
 
-*January 2024 -*
+*January 2024 - August 2024*
 
-Founded fifteen years ago at the University of Chicago, the Directed Reading Program pairs ambitious undergraduate students with graduate mentors for a semester-long investigation into a chosen topic. This semester, I have been paired with Alexis Leroux-Lapierre: [math.mcgill.ca/~alapierre](https://www.math.mcgill.ca/~alapierre/). We began with Alexis presenting a crash course on the relevant ideas in categorification following [Introduction To Categorification](https://arxiv.org/abs/1401.6037) by Professor Alistair Savage. We are now focussing on the last two chapters of these notes and will soon begin the project write-up. This writing will be a more approachable resource on the categorification of the Fock space representation of the Heisenberg algebra containing many worked examples and applications to theoretical physics.
+Founded fifteen years ago at the University of Chicago, the Directed Reading Program pairs ambitious undergraduate students with graduate mentors for a semester-long investigation into a chosen topic. This semester, I have been paired with Alexis Leroux-Lapierre: [math.mcgill.ca/~alapierre](https://www.math.mcgill.ca/~alapierre/). We began with Alexis presenting a crash course on the relevant ideas in categorification following [Introduction To Categorification](https://arxiv.org/abs/1401.6037) by Professor Alistair Savage. We are now working on an approachable exposition particularly focussing on the categorification of the Fock space representation of the Heisenberg algebra SYM containing many worked examples and applications.
 
 
 ### Fibrations Podcast
