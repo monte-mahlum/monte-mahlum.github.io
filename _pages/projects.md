@@ -13,7 +13,7 @@ Founded fifteen years ago at the University of Chicago, the Directed Reading Pro
 
 
 ### Fibrations Podcast
-*September 2022 -*
+*September 2022 - April 2023*
 
 [spotify.com/fibrations](https://open.spotify.com/episode/4LaRg86qK7iV12MN9MkG9u?si=cQG29zDVTjiVuW-wCv58wQ)
 
