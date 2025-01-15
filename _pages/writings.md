@@ -21,7 +21,7 @@ Written for graduate school applications in the Fall of 2023.
 
 ### Other Technical Works
 
-*Clarifying The Tangent Space.* [(PDF)](/files.tangent_space.pdf)
+*Clarifying The Tangent Space.* [(PDF)](/files/tangent_space.pdf)
 
 *Algebraic Topology.* [(PDF)](/files/AlgTop.pdf)
 Five documents summing over thirty pages expositing solutions to textbook problems in algebraic topology. The fifth document is presented here and others are available.
