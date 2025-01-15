@@ -26,7 +26,7 @@ Written for graduate school applications in the Fall of 2023.
 *Algebraic Topology Collection.* [(PDF)](/files/AlgTop.pdf)\
 Five documents summing over thirty pages expositing solutions to textbook problems in algebraic topology. The fifth such document is presented here and others are available. The explicit questions have been omitted due to their academic sensitivity.
 
-*Category Theory Collection.* \
+*Category Theory Collection.* [(PDF)](/files/CatTheory.pdf)
 Eleven documents summing over seventy pages of detailed solutions to numerous problems in category theory and homological algebra. Again, explicit questions have been omitted due to their academic sensitivity.
 
 *A Qualitative Introduction To Lie Theory (with applications to quantum physics)* [(PDF)](/files/Lie_Theory (2).pdf)\
