@@ -6,9 +6,6 @@ main:
 
   - title: "Projects"
     url: /projects/   
-  
-  - title: "Statement of Purpose"
-    url: /statement/
     
   - title: "CV"
     url: /cv/
