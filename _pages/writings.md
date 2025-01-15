@@ -10,7 +10,7 @@ author_profile: true
 ### Research
 
 *On Convergence Properties of the Deep JKO Scheme.*\
-This work is unpublished, but a copy is available upon request. For more information on the deep JKO scheme, see [\[LWL\]](https://www.sciencedirect.com/science/article/pii/S0021999124004364?ref=pdf_download&fr=RR-2&rr=90208f984a7d511c).
+This work is unpublished, but a copy is readily available. For more information on the deep JKO scheme, see [\[LWL\]](https://www.sciencedirect.com/science/article/pii/S0021999124004364?ref=pdf_download&fr=RR-2&rr=90208f984a7d511c).
 
 
 ### Non-Technical
@@ -27,7 +27,7 @@ Written for graduate school applications in the Fall of 2023.
 Five documents summing over thirty pages expositing solutions to textbook problems in algebraic topology. The fifth such document is presented here and others are available.
 
 *Category Theory.* \
-Eight documents summing over seventy pages of detailed solutions to numerous problems in category theory and homological algebra. Available only upon request due to the academic sensitivity of the information.
+Eight documents summing over seventy pages of detailed solutions to numerous problems in category theory and homological algebra. Available (readily) only upon request due to the academic sensitivity of the information.
 
 *A Qualitative Introduction To Lie Theory (with applications to quantum physics)* [(PDF)](/files/Lie_Theory (2).pdf)\
 For context, see [Projects, June 2023](https://monte-mahlum.github.io/projects/).
