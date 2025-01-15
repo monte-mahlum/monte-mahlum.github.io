@@ -5,15 +5,29 @@ permalink: /projects/
 author_profile: true
 
 ---
-### Directed Reading Program
 
-*January 2024 - August 2024*
+### Directed Reading Program (UMN)
 
-Founded fifteen years ago at the University of Chicago, the Directed Reading Program pairs ambitious undergraduate students with graduate mentors for a semester-long investigation into a chosen topic. This semester, I have been paired with Alexis Leroux-Lapierre: [math.mcgill.ca/~alapierre](https://www.math.mcgill.ca/~alapierre/). We began with Alexis presenting a crash course on the relevant ideas in categorification following [Introduction To Categorification](https://arxiv.org/abs/1401.6037) by Professor Alistair Savage. We are now working on an approachable exposition particularly focussing on the categorification of the Fock space representation of the Heisenberg algebra SYM containing many worked examples and applications.
+*Fall 2024*
+
+After being a mentee in my undergrad, I had the opportunity to mentor one student through their reading of [\[B&D\]](https://link.springer.com/book/10.1007/978-3-662-12918-0). I found our discussions of manifolds and Lie theory to be extremely rewarding and I'm happy to have taken it upon myself to begin writing the following exposition: [Clarifying The Tangent Space](https://monte-mahlum.github.io/files/tangent_space.pdf).
+
+### Manifold Institute 
+
+*Summer 2024*
+
+An attempt at bringing advanced mathematics to a wider audience. [This program](https://montemahlum5.wixsite.com/manifoldinstitute) did not run in 2024, but there is hope for subsequent summers.
+
+
+### Directed Reading Program (McGill)
+
+*Spring 2024*
+
+This program pairs ambitious undergraduate students with graduate mentors for a semester-long investigation into a chosen topic. This semester, I have been paired with [Alexis Leroux-Lapierre](https://www.math.mcgill.ca/~alapierre/) to study categorification—the process of instantiating an algebraic structure in the rich environment of category theory. We began with Alexis presenting a crash course on the relevant ideas in categorification following [Introduction To Categorification](https://arxiv.org/abs/1401.6037) by Professor Alistair Savage. We are now working on an approachable exposition particularly focussing on the categorification of the Heisenberg algebra Sym, and its Fock space representation, containing many worked examples and applications.
 
 
 ### Fibrations Podcast
-*September 2022 - April 2023*
+*Fall 2022 - Summer 2023*
 
 [spotify.com/fibrations](https://open.spotify.com/episode/4LaRg86qK7iV12MN9MkG9u?si=cQG29zDVTjiVuW-wCv58wQ)
 
