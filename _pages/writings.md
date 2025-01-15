@@ -10,7 +10,7 @@ author_profile: true
 ### Research
 
 *On Convergence Properties of the Deep JKO Scheme.*\
-This work is unpublished, but a copy is readily available. For more information on the deep JKO scheme, see [\[LWL\]](https://www.sciencedirect.com/science/article/pii/S0021999124004364?ref=pdf_download&fr=RR-2&rr=90208f984a7d511c).
+This work is unpublished, but a copy is readily available. For contextual information on the deep JKO scheme, see [\[LWL\]](https://www.sciencedirect.com/science/article/pii/S0021999124004364?ref=pdf_download&fr=RR-2&rr=90208f984a7d511c).
 
 
 ### Non-Technical
