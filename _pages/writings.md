@@ -17,10 +17,10 @@ This work is unpublished, but a copy is readily available. For contextual inform
 
 *Clarifying The Tangent Space.* [(PDF)](/files/tangent_space.pdf)
 
-*Algebraic Topology Problems.* [(PDF)](/files/AlgTop.pdf)\
+*Algebraic Topology Solutions.* [(PDF)](/files/AlgTop.pdf)\
 Five documents summing over thirty pages expositing solutions to textbook problems in algebraic topology. The fifth such document is presented here and others are available. The explicit questions have been omitted due to their academic sensitivity.
 
-*Category Theory Problems.* [(PDF)](/files/CatTheory.pdf)
+*Category Theory Solutions.* [(PDF)](/files/CatTheory.pdf)
 Eleven documents summing over seventy pages of detailed solutions to numerous problems in category theory and homological algebra. Again, one such document is presented here and explicit questions have been omitted due to their academic sensitivity.
 
 *A Qualitative Introduction To Lie Theory (with applications to quantum physics)* [(PDF)](/files/Lie_Theory (2).pdf)\
