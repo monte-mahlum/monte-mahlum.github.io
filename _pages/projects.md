@@ -5,6 +5,7 @@ permalink: /projects/
 author_profile: true
 
 ---
+*Last Updated:* Fall 2024.
 
 ### Directed Reading Program (UMN)
 
