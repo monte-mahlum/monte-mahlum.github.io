@@ -17,13 +17,13 @@ My academic interests include (but are not limited to) category theory, type the
 For my repository, see [GitHub](https://github.com/monte-mahlum).
 
 **Slides**
-
+M.M., [Formal Structures in Systems Architectures](/files/SlidesJMM2026.pdf), presented at JMM 2026 Applied Category Theory Special Session.
 
 **Paper**
 
 \[1\] M.M., Samantha Jarvis, Nelson Niu, Angeline Aguinaldo, Amanda Hicks, and Ian Levitt.
   _Formal Structures in Systems Ontology towards Air Traffic Management Architectures_.
-  NASA Technical Memorandum, 2025. Report no.\ NASA/TM-20250010771.}
+  NASA Technical Memorandum, 2025. Report no. NASA/TM-20250010771.
   [https://ntrs.nasa.gov/citations/20250010771](https://ntrs.nasa.gov/citations/20250010771)
 
 
