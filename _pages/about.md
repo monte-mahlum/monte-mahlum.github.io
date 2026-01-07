@@ -17,6 +17,7 @@ My academic interests include (but are not limited to) category theory, type the
 For my repository, see [GitHub](https://github.com/monte-mahlum).
 
 **Slides**
+
 M.M., [Formal Structures in Systems Architectures](/files/SlidesJMM2026.pdf), presented at JMM 2026 Applied Category Theory Special Session.
 
 **Paper**
