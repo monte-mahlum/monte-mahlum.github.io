@@ -14,8 +14,16 @@ My industry interests include (1) formal methods in software, infrastructure, an
 
 My academic interests include (but are not limited to) category theory, type theory, topos theory, and algebraic geometry.
 
-For the slides used in my recent talk at JMM 2026, 
-
-For an updated version of my CV, please follow the corresponding tab above.
-
 For my repository, see [GitHub](https://github.com/monte-mahlum).
+
+**Slides**
+
+
+**Paper**
+
+\[1\] M.M., Samantha Jarvis, Nelson Niu, Angeline Aguinaldo, Amanda Hicks, and Ian Levitt.
+  _Formal Structures in Systems Ontology towards Air Traffic Management Architectures_.
+  NASA Technical Memorandum, 2025. Report no.\ NASA/TM-20250010771.}
+  [https://ntrs.nasa.gov/citations/20250010771](https://ntrs.nasa.gov/citations/20250010771)
+
+
