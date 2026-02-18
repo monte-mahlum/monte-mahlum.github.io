@@ -20,7 +20,7 @@ For my repository, see [GitHub](https://github.com/monte-mahlum).
 
 M.M., [Formal Structures in Systems Architectures](/files/SlidesJMM2026.pdf), presented at JMM 2026 Applied Category Theory Special Session.
 
-For a more introductory version presented to the UMN Math Club, see [Designing Systems of Systems with Category Theory](/files/MathClubIndustryTalk.pdf).
+For a slightly more introductory version presented to the UMN Math Club, see [Designing Systems of Systems with Category Theory](/files/MathClubIndustryTalk.pdf).
 
 **Paper**
 
