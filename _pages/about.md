@@ -29,6 +29,7 @@ For a slightly more introductory version presented to the UMN Math Club, see [De
   NASA Technical Memorandum, 2025. Report no. NASA/TM-20250010771.
   [https://ntrs.nasa.gov/citations/20250010771](https://ntrs.nasa.gov/citations/20250010771)
 
-  \[2\] _On the Convergence Properties of the Deep JKO Scheme_. Anticipated July 2026.
+  \[2\] _On Convergence of the Lagrangian and Dynamic Deep JKO Schemes for
+High-Dimensional Nonlinear Wasserstein Gradient Flows_. Anticipated July 2026.
 
 
