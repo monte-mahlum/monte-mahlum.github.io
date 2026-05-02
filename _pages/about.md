@@ -10,9 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
-My industry interests include (1) formal methods in software, infrastructure, and systems architecture; (2) machine learning & scientific computing; and (3) database systems. My principal aim in these domains is to responsibly integrate advanced mathematics into complex and critical systems.
+My industry interests include (1) complex systems architecture and networked systems, particularily in distributed settings with concurrent, interdependent operations; (2) machine learning, specifically with (hyper)graph structured data; and (3) database systems. My principal aim in these domains is to responsibly integrate advanced mathematics into complex and critical systems.
 
-My academic interests include (but are not limited to) (1) category theory, type theory, topos theory, and algebraic topology & geometry; and separately (2) machine learning and numerical methods. Some of my favorite studies live in the intersection of these two veins, e.g., neural sheaf diffusion and gene-ontology-based learning.
+My academic interests include (but are not limited to) (1) category theory, type theory, topos theory, and algebraic topology & geometry; and, somewhat,separately (2) machine learning and numerical methods. Some of my favorite studies live at the join of these two veins, e.g., neural sheaf diffusion and hypergraph representation learning.
 
 You can find my GitHub [here](https://github.com/monte-mahlum).
 
