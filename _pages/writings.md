@@ -30,18 +30,3 @@ Eleven documents summing over seventy pages of detailed solutions to numerous pr
 
 *A Qualitative Introduction To Lie Theory (with applications to quantum physics)* [(PDF)](/files/Lie_Theory (2).pdf)\
 For context, see *June 2023* on the [Projects](https://monte-mahlum.github.io/projects/) page.
-
-<!
-### Non-Technical
-
-*Statement of Purpose.* [(PDF)](/files/Statement.pdf)\
-Written for graduate school applications in the Fall of 2023. 
-
-
-### Misc.
-
-*On Quantum First-Passage Time.* [(Link)](https://physics.stackexchange.com/questions/774291/quantum-first-passage-time)
-
-*Poetry.*
-Available upon request.
-!>
