@@ -9,8 +9,13 @@ author_profile: true
 
 ### Research
 
-*On Convergence of the Lagrangian and Dynamic Deep JKO Schemes for High-Dimensional Nonlinear Wasserstein Gradient Flows.*\
-This work is unpublished, but a draft is available upon request. For contextual information on the deep JKO scheme, see [\[LWL\]](https://www.sciencedirect.com/science/article/pii/S0021999124004364?ref=pdf_download&fr=RR-2&rr=90208f984a7d511c).
+\[1\] M.M., Samantha Jarvis, Nelson Niu, Angeline Aguinaldo, Amanda Hicks, and Ian Levitt.
+  _Formal Structures in Systems Ontology towards Air Traffic Management Architectures_.
+  NASA Technical Memorandum, 2025. Report no. NASA/TM-20250010771.
+  [https://ntrs.nasa.gov/citations/20250010771](https://ntrs.nasa.gov/citations/20250010771)
+
+  \[2\] _On Convergence of the Lagrangian and Dynamic Deep JKO Schemes for
+High-Dimensional Nonlinear Wasserstein Gradient Flows_. Manuscript in preparation, a draft is available upon request. For contextual information on the deep JKO scheme, see [\[LWL\]](https://www.sciencedirect.com/science/article/pii/S0021999124004364?ref=pdf_download&fr=RR-2&rr=90208f984a7d511c).
 
 
 ### Other Technical Works
